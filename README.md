@@ -33,25 +33,25 @@
 
 | Módulo | Github | % Concluído|
 | ------ | ------ | ------ |
-| 1 módulo | [plugins/dropbox/README.md][PlDb] | 100% |
-| 2 módulo | [plugins/github/README.md][PlGh] | 50% |
-| 3 módulo | [plugins/googledrive/README.md][PlGd] | 0% |
-| 4 módulo | [plugins/onedrive/README.md][PlOd] | 0% |
-| 5 módulo | [plugins/medium/README.md][PlMe] | 0% |
-| 6 módulo | [plugins/googleanalytics/README.md][PlGa] | 0% |
-| 7 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 8 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 9 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 10 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 11 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 12 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 13 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 14 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 15 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 16 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 17 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 18 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
-| 19 módulo | [plugins/dropbox/README.md][PlDb] | 0% |
+| 1 módulo  | - | 100% |
+| 2 módulo  | - | 50% |
+| 3 módulo  | - | 0% |
+| 4 módulo  | - | 0% |
+| 5 módulo  | - | 0% |
+| 6 módulo  | - | 0% |
+| 7 módulo  | - | 0% |
+| 8 módulo  | - | 0% |
+| 9 módulo  | - | 0% |
+| 10 módulo | - | 0% |
+| 11 módulo | - | 0% |
+| 12 módulo | - | 0% |
+| 13 módulo | - | 0% |
+| 14 módulo | - | 0% |
+| 15 módulo | - | 0% |
+| 16 módulo | - | 0% |
+| 17 módulo | - | 0% |
+| 18 módulo | - | 0% |
+| 19 módulo | - | 0% |
 
 
 
